@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+	int i=1;
+	clrscr();
+	while(i <= 10)
+	{printf("hellow world\n");
+	i++;}
+	getch();
+}

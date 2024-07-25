@@ -1,0 +1,6 @@
+#include<stdio.h>
+#include<conia.h>
+main()
+	int a=10
+
+	clrscr();
